@@ -34,4 +34,4 @@ PlatePilot is a dynamic web application that bridges the gap between users and l
 
 
 
-![image alt](Screenshot (100).png)
+![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/a6d315977ff9a6fc1a6dbc5018f0d592a6448260/Screenshot%20(100).png)
