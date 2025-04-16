@@ -3,6 +3,7 @@ PlatePilot is a dynamic web application that bridges the gap between users and l
 
 
 🌟 Features
+
 👥 User registration and login
 
 📝 User signup
