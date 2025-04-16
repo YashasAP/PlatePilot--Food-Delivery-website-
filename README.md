@@ -36,7 +36,7 @@ PlatePilot is a dynamic web application that bridges the gap between users and l
 
 ![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/a6d315977ff9a6fc1a6dbc5018f0d592a6448260/Screenshot%20(100).png)
 ![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png)
-![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png)
+![image alt]([https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/e1ce343ad1f8c51ba458a7a3efc64d1f110d690f/Screenshot%20(102).png))
 ![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png)
 ![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png)
 ![image alt](https://github.com/YashasAP/PlatePilot--Food-Delivery-website-/blob/eefae55a8b43d8bea57b6bb9160b1ac4c2f1edb8/Screenshot%20(101).png)
